@@ -1,4 +1,5 @@
-# PassGen<sup><sup>TM</sup></sup> - Python Edition
+# Thor's Hammer - Python Edition
+(The name sounds way cooler in my head I swear) <br/>
 A simple command line password generator. And yes, there WILL be more of this from other languages.
 
 ## Functionalities
@@ -16,7 +17,7 @@ Generate passwords with configurable settings for the generator, these include:
     Open terminal, run:
     
 ```
-pip install passgen
+pip install thors_hammer
 ```
   </li>
 </ol>
@@ -27,18 +28,14 @@ pip install passgen
     Open terminal, run:
 
 ```
-passgen
-```
-Or:
-```
-pg
+mjolnir
 ```
   </li>
   <li>
     Alternatively, in a Python file (*.py), you can do:
     
 ```
-from passgen import main
+from thors_hammer import main
 main()
 ```
   </li>
