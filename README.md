@@ -1,5 +1,10 @@
 # Thor's Hammer - Python Edition
 (The name sounds way cooler in my head I swear) <br/>
+<!-- 
+Fun facts:
+1. The name Thor's Hammer refer to the weapon of the Norse Mythology's God, Thor, which is named Mjolnir, hence why the command to run this program is "mjolnir".
+2. It's also a reference to Resident Evil 7's Not a Hero DLC, where Chris Redfield shotgun is called "Thor's Hammer".
+-->
 A simple command line password generator. And yes, there WILL be more of this from other languages.
 
 ## Functionalities
