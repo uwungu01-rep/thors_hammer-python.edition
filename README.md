@@ -46,7 +46,7 @@ main()
 1.  Python 3.x
 
 ## Note(s)
-1. Deleting the config folder/file will cause everything to revert back to the default setting the next time you boot up the progam.
+1. Deleting the config folder/file could cause everything to revert back to the default setting the next time you boot up the progam.
 
 ## License
 This project is licensed under the GNU General Public License 3.0, check [LICENSE](LICENSE) for more details.
