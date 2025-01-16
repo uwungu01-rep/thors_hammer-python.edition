@@ -1,5 +1,5 @@
 # Thor's Hammer - Python Edition
-(The name sounds way cooler in my head I swear) <br/>
+(The name sounds way cooler in my head I swear)
 <!-- 
 Fun facts:
 1. The name Thor's Hammer refer to the weapon of the Norse Mythology's God, Thor, which is named Mjolnir, hence why the command to run this program is "mjolnir".
