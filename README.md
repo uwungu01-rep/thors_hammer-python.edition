@@ -4,9 +4,10 @@ A simple command line password generator. And yes, there WILL be more of this fr
 
 ## Functionalities
 Generate passwords with configurable settings for the generator, these include:
-1. Toggle whether or not you want to generate passwords with uppercase letters.
-2. Toggle whether or not you want to generate passwords with numbers.
-3. Toggle whether or not you want to generate passwords with special characters.
+1. Configure the password's length
+2. Toggle whether or not you want to generate passwords with uppercase letters.
+3. Toggle whether or not you want to generate passwords with numbers.
+4. Toggle whether or not you want to generate passwords with special characters.
 
 ## Installation
 <ol type="1">
