@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = "1.0"
+VERSION = "2.0.0"
 DESCRIPTION = "A simple command line password generator."
 with open("README.md") as file:
     LONG_DESCRIPTION = file.read()
@@ -15,8 +15,7 @@ setup(
     long_description_content_type = "text/markdown",
     url = "https://github.com/uwungu01-rep/passgen-python.edition",
     packages = find_packages(),
-    install_requires = [], # add any additional packages that 
-    # needs to be installed along with your package. Eg: "caer"
+    install_requires = ["ziz-utils"],
     classifiers = [
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",

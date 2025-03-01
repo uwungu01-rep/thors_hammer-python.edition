@@ -40,7 +40,7 @@ mjolnir
   <li>
     Alternatively, in a Python file (*.py), you can do:
     
-```
+```py
 from thors_hammer import main
 main()
 ```
